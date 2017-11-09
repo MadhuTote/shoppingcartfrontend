@@ -51,8 +51,10 @@
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">My Account
           <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li id=signup><a href="${contextRoot}/register/user">Sign Up</a></li>
-            <li id=login><a href="${contextRoot}/login">Login</a></li>
+            <li  id=signup ><a href="${contextRoot}/register/user"><span class="glyphicon glyphicon-user"></span>Sign Up</a></li>
+            <li id=login><a href="${contextRoot}/login"><span class="glyphicon glyphicon-log-in"></span>Login</a></li>
+             <!--  <li><a href="registration"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+      <li><a href="login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>  -->
           </ul>
         </li>
        </c:if> 

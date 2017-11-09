@@ -72,9 +72,6 @@
 
   
 <!-- Load Only When user Click Account --> 
-<c:if test="${userClickAccount == true}">
-   <%@include file="account.jsp" %>
-</c:if>
 
 
 <!-- Load Only When user Click Signup -->

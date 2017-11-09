@@ -6,7 +6,10 @@
   <div class="col-sm-3">
   
   </div>
-  <div class="col-sm-4" style="text-align:none">
+  <!--  <div class="col-sm-4" style="text-align:none">
   <!-- Project developed by ... -->
-  </div>
+ <!--  </div>-->
+
+			
+   
  </div>

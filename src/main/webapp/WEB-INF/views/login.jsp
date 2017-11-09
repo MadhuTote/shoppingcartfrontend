@@ -79,7 +79,7 @@
               
        
   <h5 class="text-center">LOGIN</h5>
-  <p><em>Please Login to Explore Planet Sports...!</em></p>
+  <p><em>Please Login to Explore Shopping World...!</em></p>
   <br>
 	
   <div class="row text-center">

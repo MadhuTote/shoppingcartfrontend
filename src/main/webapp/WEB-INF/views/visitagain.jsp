@@ -7,7 +7,7 @@
         <p>Your Order will be delivered in 4-5 Business Days. The Order is usually gets dispatched within 2 days. You will receive an email with the tracking details
         once the order is shipped.</p>
          
-   <h1>Thank You for shopping on Planet Sports!Please Visit Again!</h1>
+   <h1>Thank You for shopping on Shopping World!Please Visit Again!</h1>
     <br><br>
         </div>
         
